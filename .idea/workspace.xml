@@ -5,33 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a8f4995-9125-4927-8aef-f088d11a99c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/learn_serializers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/snippets/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/snippets/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/snippets/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/snippets/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/snippets/migrations/0002_snippet_highlighted_snippet_owner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/snippets/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/snippets/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/snippets/permissions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/snippets/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/snippets/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/snippets/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/snippets/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/tutorial/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/tutorial/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/tutorial/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/tutorial/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/tutorial/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/snippets/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/snippets/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/snippets/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/snippets/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +24,31 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1641671992" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1641671991" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -80,12 +81,23 @@
       <workItem from="1641577115100" duration="143000" />
       <workItem from="1641577301523" duration="4964000" />
       <workItem from="1641630343466" duration="694000" />
-      <workItem from="1641660193191" duration="7181000" />
+      <workItem from="1641660193191" duration="14466000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
