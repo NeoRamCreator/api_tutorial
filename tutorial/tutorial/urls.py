@@ -12,5 +12,6 @@ urlpatterns = [
     # path('q', include(router.urls)),
     path('admin/', admin.site.urls),
     path('', include('snippets.urls')),
+    path('a1/', include('a1.urls')),
 
 ]
