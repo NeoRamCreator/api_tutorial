@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'snippets.apps.SnippetsConfig',
     'a1.apps.A1Config',
+    'a2.apps.A2Config',
 
 ]
 
