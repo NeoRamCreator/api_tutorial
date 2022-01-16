@@ -7,5 +7,6 @@ router.register(r'mod-a', views.ModelAView)
 router.register(r'mod-b', views.ModelBView)
 
 urlpatterns = [
-    path('', include(router.urls)),
+    path('api/', include(router.urls)),
+    path('list-a/', views.ModelAList.as_view())
 ]

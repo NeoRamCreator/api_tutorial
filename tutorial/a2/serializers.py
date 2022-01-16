@@ -7,7 +7,7 @@ from a2.models import ModelB
 class ModelASerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = ModelA
-        fields = ['pk', 'url', 'a1', 'a2', 'a3', 'a4', ]
+        fields = ['pk', 'url', 'title_category', 'a2', 'a3', 'a4', ]
 
 
 class ModelBSerializer(serializers.HyperlinkedModelSerializer):

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<div class="row">
+
+    {% for item in listA %}
+
+    <div class="col">
+        {{ item }}
+
+        {% for itemB in modB %}
+        {{ itemB }}
+        {% endfor %}
+    </div>
+
+    {% endfor %}
+
+
+</div>
+</div>
+
+</body>
+</html>
