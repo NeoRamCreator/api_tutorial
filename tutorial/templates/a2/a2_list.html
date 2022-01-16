@@ -1,28 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+{% extends 'base.html' %}
 
+{% block content %}
 <div class="row">
-
     {% for item in listA %}
-
-    <div class="col">
-        {{ item }}
-
-        {% for itemB in modB %}
-        {{ itemB }}
-        {% endfor %}
-    </div>
+    <ul class="list-group">
+        <a href=""><li class="list-group-item">{{item}}</li></a>
+    </ul>
 
     {% endfor %}
-
-
 </div>
-</div>
+{% endblock content %}
 
-</body>
-</html>
+
+
+
+
+
+
+
+
